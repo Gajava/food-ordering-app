@@ -1,0 +1,13 @@
+.form{
+    margin:1 rem 0;
+    height:19rem;
+    overflow: scroll;
+}
+.control{
+    margin-bottom:0.5rem;
+}
+.contol label{
+    font-weight:bold;
+    margin-bottom:0.25rem;
+    display: flex;
+}
